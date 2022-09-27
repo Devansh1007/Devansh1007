@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Devansh1007
+- 👋 Hi, I’m Devansh
 - 👀 I’m interested in Aviation
-- 🌱 I’m currently learning flying in sim. 
-- 💞️ I’m looking to collaborate on Flightgear Boeing 737-800 YV. 
 - 📫 How to reach me topgear1007@gmail.com.
 
 <!---
